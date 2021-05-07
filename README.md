@@ -1,4 +1,4 @@
-👋 Hi! i'm Bautista 😄
+👋 Hi! i'm Bautista ⚡
 
 I'm a front-end developer from 🇦🇷 and i love to learn new stuff 😉.
 
