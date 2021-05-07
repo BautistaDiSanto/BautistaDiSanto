@@ -1,8 +1,8 @@
-I'm Bautista 😄
+👋 Hi! i'm Bautista 😄
 
-👋 Hi! i'm a front-end developer from 🇦🇷 and i love to learn new stuff 😉.
+I'm a front-end developer from 🇦🇷 and i love to learn new stuff 😉.
 
-🔭 I’m currently working on an ecommerce and a coinmarketcap copy, learning a little bit more about back-end development.
+🔭 I’m currently working on an ecommerce, a coinmarketcap copy and learning a little bit more about back-end development.
 
 📫 you can reach me from: linkedin.com/in/juanbautistadisanto
 
