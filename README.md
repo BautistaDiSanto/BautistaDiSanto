@@ -1,6 +1,6 @@
 👋 Hi! i'm Bautista ⚡
 
-I'm a front-end developer from 🇦🇷 and i love to learn new stuff 😉.
+I'm a full-stack developer from 🇦🇷 and i love to learn new stuff 😉.
 
 My job: I'm currently working on a software factory as a Full-stack developer :D
 
