@@ -1,4 +1,4 @@
-👋 Hi! i'm Bautista ⚡
+Hi! i'm Bautista ⚡
 
 full-stack developer from 🇦🇷.
 
